@@ -27,7 +27,7 @@
 .header{
     display: flex;
     flex-direction: column;
-    height: 35vh;    
+    height: 40vh;    
 }
 .topHeader{
     display: flex;
@@ -71,7 +71,7 @@
 }
 
 .typesList {
-    padding-top: -1rem;
+    padding-top: 1rem;
     margin: -1rem;
     list-style: none;
     display: flex;
