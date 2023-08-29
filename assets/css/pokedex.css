@@ -19,6 +19,10 @@
     grid-template-columns: 1fr;
 }
 
+.pokemons a {
+    text-decoration: none;
+}
+
 .pokemon {
     margin: .5rem;
     padding: 0 1rem;
